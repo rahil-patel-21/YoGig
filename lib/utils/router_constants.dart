@@ -1,0 +1,10 @@
+const String SplashScreenRoute = 'splashScreen';
+const String LoginScreenRoute = 'loginScreen';
+const String PhoneLoginScreenRoute = 'phoneLoginScreenRoute';
+const String SignUpScreenRoute = 'signupScreen';
+const String MainScreenRoute = 'mainScreen';
+const String UserDetailsScreenRoute = 'userDetailsScreen';
+const String ForgotPasswordScreenRoute = 'forgotPasswordScreen';
+const String SearchFiltersScreenRoute = 'searchFiltersScreen';
+const String SettingsScreenRoute = 'settingsScreen';
+const String ChatScreenRoute = 'chatScreen';
